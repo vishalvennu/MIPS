@@ -1,0 +1,12 @@
+Enter in terminal:
+
+
+g++ vv819_lab1.cpp -o imem.txt dmem.txt a.out
+
+This output a file "a.out" which is an executable
+
+
+
+./a.out 
+
+This executes the object file that you just created.
